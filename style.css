@@ -6,6 +6,10 @@ body{
 	width: 100%;
 }
 
+.principal{
+
+}
+
 h1{
    text-align: center
 }
@@ -27,6 +31,14 @@ em strong{
 	font-style: italic;
 }
 
-.beneficios {
-	
+.Beneficios {
+	background:  #FFFFFF;
+}
+
+h2 {
+	text-align:  center;
+}
+
+.imagembeneficios {
+	width: 50%;
 }
